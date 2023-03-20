@@ -10,6 +10,8 @@ int main()
     char player;
     char computer;
 
+    player = getUserChoice();
+
 }
 
 char getUserChoice(){
