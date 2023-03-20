@@ -14,6 +14,7 @@ int main()
     std::cout << "Your choice is: ";
     showChoice(player);
 
+    computer = getComputerChoice();
 }
 
 char getUserChoice(){
